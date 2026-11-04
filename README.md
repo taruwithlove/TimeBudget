@@ -1,4 +1,3 @@
-[TimeBudget_data_README.md](https://github.com/user-attachments/files/34392609/TimeBudget_data_README.md)
 # Описание папки `data`
 
 В этой папке хранятся тестовые данные, на основе которых будет
